@@ -53,7 +53,7 @@ Please contact us at info@wooforce.com in case you have any questions.Visit our 
 <a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-shipping-pro-with-table-rates-plugin/">Buy Now!</a>
 
 = Buy Canada Post WooCommerce Shipping with Print Label plugin =
-<a rel="nofollow" href="www.wooforce.com/product/canada-post-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
+<a rel="nofollow" href="http://www.wooforce.com/product/canada-post-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
 
 = Buy UPS WooCommerce Shipping with Print Label plugin =
 <a rel="nofollow" href="http://www.wooforce.com/product/ups-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
