@@ -1,19 +1,20 @@
 === WooCommerce USPS Shipping Method Plugin ===
 Contributors: WooForce
 Donate link: 
-Tags: USPS, USPS Shipping, Shipping rates, shipping method, calculator, Shipping, WooCommerce
+Tags: USPS, USPS Shipping, Shipping rates, shipping method, shipping extension,calculator,shipping calculator, tracking, postage, Shipping, WooCommerce
 Requires at least: 3.0.1
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-USPS Shipping Method Plugin for Realtime Shipping Rates on WooCommerce Stores
+USPS Shipping Method Plugin for WooCommerce. Displays Live Shipping Rates based on the Shipping Address and Cart Content.
 
 == Description ==
 
 = Introduction =
-USPS WooCommerce Shipping plugin helps WooCommerce based stores to streamline USPS (US Postal Service) shipping integration. This plugin helps you to get shipping rates from USPS APIs based on product weight, post code and other relevant details. Based on the postal codes and other parameters, all available shipping services along with the rates are listed for the customers to choose from.
+
+USPS WooCommerce Shipping plugin helps WooCommerce based stores to streamline USPS (US Postal Service) shipping integration. This plugin helps you to get shipping rates from USPS APIs based on the shipping address and cart content. Based on the postal codes and other parameters, all available shipping services along with the rates are listed for the customers to choose from.
 
 = Integrates WooCommerce to USPS =
 
@@ -21,11 +22,11 @@ Once this plugin is installed and configured with necessary information (please 
 
 = Calculate shipping rates dynamically =
 
-While checking out, a customer is presented with the available shipping services and the rates based on his/her postal code, product weight and dimensions. Customer can choose the best method that matches his/her requirements and proceed to payment.
+While checking out, a customer is presented with the available shipping services and the rates based on the shipping address and cart content. Customer can choose the best method that matches his/her requirements and proceed to payment.
 
 <blockquote>
-= Buy Premium version of WooCommerce USPS Shipping Method Plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/usps-woocommerce-shipping-with-print-label/">Buy Now!</a>
+= Buy Premium version: WooCommerce USPS Shipping Method Plugin =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-usps-shipping-plugin-with-print-label/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
 = Premium version Features =
 USPS Premium version streamlines your complete shipping process and saves time
@@ -40,35 +41,35 @@ USPS Premium version streamlines your complete shipping process and saves time
 </blockquote>
 
 = About WooForce.com =
-[WooForce.com](http://www.wooforce.com/) creates quality WordPress/WooCommerce plug-ins that are easy to use and customize. We are proud to have hundreds of customers actively using our plug-ins across the globe.
+[WooForce.com](http://www.wooforce.com/?utm_source=wordpress&utm_medium=referral&utm_content=usps) creates quality WordPress/WooCommerce plugins that are easy to use and customize. We are proud to have hundreds of customers actively using our plugins across the globe.
 
-Please contact us at info@wooforce.com in case you have any questions.Visit our company site [WooForce](http://www.wooforce.com/).
+Please [contact us](http://www.wooforce.com/contact/?utm_source=wordpress&utm_medium=referral&utm_content=usps) in case you have any questions
 
 <blockquote>
 
-= Buy Stamps.com WooCommerce Extension with USPS Postage plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/stamps-com-woocommerce-extension-with-usps-postage/">Buy Now!</a>
+= Stamps.com WooCommerce Extension Plugin with USPS Postage =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-stamps-com-shipping-plugin-with-usps-postage/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy our WooCommerce Shipping Pro =
-<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-shipping-pro-with-table-rates-plugin/">Buy Now!</a>
+= WooCommerce Shipping Pro =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-shipping-pro-with-table-rates-plugin/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy Canada Post WooCommerce Shipping with Print Label plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/canada-post-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
+= WooCommerce Canada Post Shipping Plugin with Print Label =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-canada-post-shipping-plugin-with-print-label/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy UPS WooCommerce Shipping with Print Label plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/ups-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
+= WooCommerce UPS Shipping Plugin with Print Label =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-ups-shipping-plugin-with-print-label/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy FedEx WooCommerce Shipping with Print Label plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/fedex-woocommerce-shipping-with-print-label-plugin/">Buy Now!</a>
+= WooCommerce FedEx Shipping Plugin with Print Label =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-fedex-shipping-plugin-with-print-label/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy WooCommerce Shipment Tracking plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-shipment-tracking/">Buy Now!</a>
+= WooCommerce Shipment Tracking plugin =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-shipment-tracking/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy Australia Post WooCommerce Shipping plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/australia-post-woocommerce-shipping-plugin/">Buy Now!</a>
+= WooCommerce Australia Post Shipping Plugin =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-australia-post-shipping-plugin-with-tracking/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 
-= Buy DHL WooCommerce Shipping with Print Label plugin =
-<a rel="nofollow" href="http://www.wooforce.com/product/dhl-woocommerce-shipping-with-print-label/">Buy Now!</a>
+= WooCommerce DHL Shipping Plugin with Print Label =
+<a rel="nofollow" href="http://www.wooforce.com/product/woocommerce-dhl-shipping-plugin-with-print-label/?utm_source=wordpress&utm_medium=referral&utm_content=usps">Buy Now!</a>
 </blockquote>
 
 == Installation ==
